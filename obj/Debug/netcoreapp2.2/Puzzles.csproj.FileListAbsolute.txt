@@ -1,0 +1,11 @@
+/Users/momo/Desktop/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.deps.json
+/Users/momo/Desktop/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.json
+/Users/momo/Desktop/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.runtimeconfig.dev.json
+/Users/momo/Desktop/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.dll
+/Users/momo/Desktop/Puzzles/bin/Debug/netcoreapp2.2/Puzzles.pdb
+/Users/momo/Desktop/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csprojAssemblyReference.cache
+/Users/momo/Desktop/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.csproj.CoreCompileInputs.cache
+/Users/momo/Desktop/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfoInputs.cache
+/Users/momo/Desktop/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.AssemblyInfo.cs
+/Users/momo/Desktop/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.dll
+/Users/momo/Desktop/Puzzles/obj/Debug/netcoreapp2.2/Puzzles.pdb
